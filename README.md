@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  I am a pre final year student in R. V. College of Engineering studying B. E. in CSE currently working in Ringover France as Backend Developer. I'm interested in Android and Java development along with web development with NodeJS. I am a theatre artist, chess and quizzing enthusiast. Also like running, trekking and camping.
+  I am a final year student in R. V. College of Engineering studying B. E. in CSE currently working in Ringover France as Backend Developer. I'm interested in Android and Java development along with web development with NodeJS. I am a theatre artist, chess and quizzing enthusiast. Also like running, trekking and camping.
 
 - 🌱 I’m currently learning NodeJS
 - 📫 Reach me at:   &nbsp;&nbsp;&nbsp;&nbsp; [<img width ="23" src="https://user-images.githubusercontent.com/59359627/186589885-f0a01581-3195-40ab-9b09-7d262cbc6143.png">](phalakshacg01@gmail.com)    &nbsp;  &nbsp;|&nbsp;&nbsp;    [<img width="20" src ="https://user-images.githubusercontent.com/59359627/186590082-e3d48c5e-4309-45b1-b4d5-f9fcbf56629d.png">](https://www.linkedin.com/in/phalaksha-c-g-445a581b7/)
