@@ -1,5 +1,4 @@
-<h1 align="center">Hi , I'm Tirtharaj Sengupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<hr/>
+<h1 align="center">Hi , I'm Phalaksha C G <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <p align = "center"> I am a final year student in R. V. College of Engineering studying B. E. in CSE currently working in Ringover France as Backend Developer. I'm interested in Web development with MERN stack and delving into decentralized apps using Solidity and hardhat. I am a theatre artist, chess and quizzing enthusiast. Also like running, trekking and camping. </p>
 
 #### 🌱 I’m currently learning ReactJS and writing smart contracts in Solidity
@@ -16,4 +15,4 @@
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhalakshaCG)](https://github.com/anuraghazra/github-readme-stats) <br/>
-![Phalaksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhalakshaCG&show_icons=true&theme=radical)
+![Phalaksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhalakshaCG&show_icons=true&theme=transparent)
