@@ -3,7 +3,7 @@
 
 #### 🌱 I’m currently learning ReactJS and writing smart contracts in Solidity
 #### 📫 Reach me at:  
-<br/><hr/> <p align="center">
+<p align="center">
   <a href="mailto:phalakshacg01@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/PhalakshaCG"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/phalaksha-c-g-445a581b7/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
