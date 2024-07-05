@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Phalaksha C G <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <p align = "center"> I am a final year student in R. V. College of Engineering studying B. E. in CSE currently working in Oracle as Full Stack Developer. I'm interested in Web development with MERN stack and delving into decentralized apps using Solidity and hardhat. I am a theatre artist, chess and quizzing enthusiast. Also like running, trekking and camping. </p>
+<h1 align="center">Hi, I'm Phalaksha C G </h1>
+  <p align = "center"> I am a CSE graduate from R. V. College of Engineering. Worked as full stack developer in Ringover and Oracle. I'm interested in Web development with MERN stack and delving into decentralized apps using Solidity and hardhat. I am a theatre artist, chess and quizzing enthusiast. Also like running, trekking and camping. </p>
 
 #### 🌱 I’m currently learning ReactJS and writing smart contracts in Solidity
 #### 📫 Reach me at:  
