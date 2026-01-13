@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Phalaksha C G </h1>
-  <p align = "center"> I am a CSE graduate from R. V. College of Engineering. Worked as full stack developer in Ringover and Oracle. I'm interested in Web development with MERN stack and delving into decentralized apps using Solidity and hardhat. I am a theatre artist, chess and quizzing enthusiast. Also like running, trekking and camping. </p>
-
-#### 🌱 I’m currently writing smart contracts in Solidity
+ <p align="center">
+Developer Associate at SAP, CSE graduate from R. V. College of Engineering, and a builder at heart. I’ve worked across the stack at Ringover and Oracle, and have won multiple hackathons by combining Blockchain and AI to solve real-world problems. My interests span scalable web applications with the MERN stack, decentralized systems using Solidity and Hardhat, and I’m currently diving deep into LLMs, MCPs, and RAG to build intelligent, production-ready systems. Beyond code, I’m a theatre artist, chess and quizzing enthusiast, and I recharge by running, trekking, and camping outdoors.
+</p>
 #### 📫 Reach me at:  
 <div align="center">
   <a href="mailto:phalakshacg01@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
