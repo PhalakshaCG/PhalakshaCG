@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Phalaksha C G </h1>
  <p align="center">
-Developer Associate at SAP, CSE graduate from R. V. College of Engineering, and a builder at heart. I’ve worked across the stack at Ringover and Oracle, and have won multiple hackathons by combining Blockchain and AI to solve real-world problems. My interests span scalable web applications with the MERN stack, decentralized systems using Solidity and Hardhat, and I’m currently diving deep into LLMs, MCPs, and RAG to build intelligent, production-ready systems. Beyond code, I’m a theatre artist, chess and quizzing enthusiast, and I recharge by running, trekking, and camping outdoors.
+SDE at SAP, CSE graduate from R. V. College of Engineering, and a builder at heart. I’ve worked across the stack at Ringover and Oracle, and have won multiple hackathons by combining Blockchain and AI to solve real-world problems. My interests span scalable web applications with the MERN stack, decentralized systems using Solidity and Hardhat, and I’m currently diving deep into LLMs, MCPs, and RAG to build intelligent, production-ready systems. Beyond code, I’m a theatre artist, chess and quizzing enthusiast, and I recharge by running, trekking, and camping outdoors.
 </p>
 <h3> Reach me at: </h3> 
 <div align="center">
